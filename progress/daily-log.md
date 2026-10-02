@@ -45,4 +45,31 @@ Copy this template every day:
 
 ---
 
+## Day 2 — 2026-10-02
+
+**What I did:**
+- Studied eight real reusable AI/agent skills from the Ruflo and UI/UX Pro Max repositories.
+- Compared useful procedural skills with vague prompts.
+- Identified decision logic, independence with clarification, boundaries, verification, examples, and measurable completion criteria as important parts of strong skills.
+- Connected these lessons to the planned Solo Ops Skill Pack.
+- Wrote my own three principles for a good AI skill.
+
+**My three principles:**
+1. I think a good AI skill should be able to make the right decision with the given information.
+2. I think a good AI skill should know how to work independently and seek clarification if more information is needed.
+3. I think a good AI skill should be able to handle complex tasks and save time and effort for humans.
+
+**What blocked me:**
+- Nothing blocked the Day 2 learning objective.
+
+**What I need help with:**
+- Continue to Day 3 and begin turning these principles into practical, reusable skills for the Solo Ops product.
+
+**Mood / energy (1-5):**
+- Not recorded.
+
+**Day 2 status:** COMPLETE.
+
+---
+
 Start logging from Day 1.
