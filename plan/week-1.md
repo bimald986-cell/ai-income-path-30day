@@ -5,21 +5,21 @@ Final list of 6–8 skills + working environment ready to build.
 
 ---
 
-### Day 1 – Orientation & Environment
+### Day 1 – Orientation & Environment ✅ COMPLETE (2026-10-01)
 
 **Tasks:**
-- [ ] Read the main README fully
-- [ ] Make sure Claude Code or Cursor is working on your machine
-- [ ] Confirm ECC is installed (or install the minimal useful parts)
-- [ ] Create a free Gumroad account (gumroad.com) – takes 5 minutes
-- [ ] Create a free Canva account if you don’t have one
-- [ ] Reply in this repo (or tell me) confirming you finished Day 1
+- [x] Read the main README fully
+- [x] Make sure Claude Code or Cursor is working on your machine
+- [x] Confirm ECC is installed (or install the minimal useful parts)
+- [x] Create a free Gumroad account (gumroad.com) – takes 5 minutes
+- [x] Create a free Canva account if you don’t have one
+- [x] Reply in this repo (or tell me) confirming you finished Day 1
 
-**Time estimate:** 1–2 hours
+**Completion note:** Claude Code v2.1.278 is installed. ECC minimal installation completed successfully. ECC runtime verification remains pending because it requires an authenticated supported Claude/API route; this does not block progression. Gumroad and Canva setup are complete.
 
 ---
 
-### Day 2 – Understand What Makes a Good Skill
+### Day 2 – Understand What Makes a Good Skill 🔄 CURRENT
 
 **Tasks:**
 - [ ] Look at 5–10 existing free skills (search “Claude Code skills”, Agensi, or GitHub)
