@@ -1,86 +1,86 @@
 # Week 1 – Research, Decide, Setup
 
 **Goal by end of Week 1:**  
-Final list of 6–8 skills + working environment ready to build.
+Move from a guessed prompt bundle to a testable, evidence-driven AI Operations Partner MVP with one executable capability and a real market-validation mission.
 
 ---
 
 ### Day 1 – Orientation & Environment ✅ COMPLETE (2026-10-01)
 
-**Tasks:**
-- [x] Read the main README fully
-- [x] Make sure Claude Code or Cursor is working on your machine
-- [x] Confirm ECC is installed (or install the minimal useful parts)
-- [x] Create a free Gumroad account (gumroad.com) – takes 5 minutes
-- [x] Create a free Canva account if you don’t have one
-- [x] Reply in this repo (or tell me) confirming you finished Day 1
+Completed: repo orientation, Claude Code/ECC setup, Gumroad and Canva access. Runtime verification remains non-blocking due authentication/cost.
 
-**Completion note:** Claude Code v2.1.278 is installed. ECC minimal installation completed successfully. ECC runtime verification remains pending because it requires an authenticated supported Claude/API route; this does not block progression. Gumroad and Canva setup are complete.
+### Day 2 – Understand What Makes a Good Skill ✅ COMPLETE (2026-10-02)
 
----
+Completed: studied real reusable skills and defined three owner principles: evidence-based decisions, useful independence with clarification, and meaningful time/effort savings.
 
-### Day 2 – Understand What Makes a Good Skill 🔄 CURRENT
+### Day 3 – Validate the Initial Niche ✅ COMPLETE (2026-10-03)
 
-**Tasks:**
-- [ ] Look at 5–10 existing free skills (search “Claude Code skills”, Agensi, or GitHub)
-- [ ] Note what makes some feel useful vs vague
-- [ ] Write down 3 things a good skill must do (in your own words)
+Completed: validated recurring client-operations pain, learned Frequency + Pain + AI Fit, and selected Client Operations Assistant as the then-current hypothesis.
 
-**Deliverable:** Short notes in `progress/daily-log.md`
+### Day 4 – Product Discovery & Self-Validation Design ✅ COMPLETE (2026-10-06)
 
----
+Day 4 deliberately changed the original plan after deeper owner/buyer exercises.
 
-### Day 3 – Validate the Niche (Lightweight)
+**What we learned:**
+- The owner would pay first for intelligent filtering/prioritization of information and work.
+- The second priority is an operator that handles recurring work independently inside safe authority boundaries.
+- The third is market research and outreach.
+- Important prioritization must explain the decision and show the evidence.
+- Prioritization should consider signal vs noise, outcomes, consequences of delay/dependencies, and risk.
+- The operator should report product performance, market conditions, important observations, last-24-hour outcomes/outreach, and today's plan.
+- Activity volume is not success; optimize for outcomes.
+- Initial market hypotheses are solo consultants/coaches, creators, tiny agencies, and small SaaS/online-business founders.
+- We do not yet know the buyer. That uncertainty becomes part of the product experiment.
 
-**Tasks:**
-- [ ] Search Reddit (r/freelance, r/Entrepreneur, r/smallbusiness, r/ClaudeAI) for complaints about client management, proposals, scope creep, weekly reviews
-- [ ] Note the most repeated pain points
-- [ ] Decide: Are we still happy with “Freelance & Solo Business Ops” or do we want a slightly different angle?
+**Decision:** Build one integrated **AI Operations Partner** and use its own market-research/outreach capability to help find its first paying customer.
 
-**Deliverable:** Decision on final positioning
-
----
-
-### Day 4 – Finalize Skill List
-
-**Tasks:**
-- [ ] Open `product/skill-list.md`
-- [ ] Together we lock the final 6–8 skills we will build
-- [ ] Write one clear sentence for each skill describing what it does
-
-**Goal:** No more changing the list after this day
+See:
+- `product/AI_OPERATIONS_PARTNER_MVP.md`
+- `product/skill-list.md`
 
 ---
 
-### Day 5 – Setup Project Structure
+### Day 5 – Build the First Executable Core 🔄 NEXT
 
-**Tasks:**
-- [ ] Create the folders for the skills inside this repo
-- [ ] Set up a simple way to test skills (Claude Code or Cursor)
-- [ ] Write a short personal “why I’m building this” note (helps later with sales copy)
+**Objective:** Turn the specification into something we can test, not another planning document.
+
+Build the first executable version of:
+1. Evidence-Based Work Prioritizer
+2. Market Validation Engine
+3. Daily Operating Brief output
+
+**Required behavior:**
+- ingest a small structured set of tasks/signals/evidence;
+- classify signal, noise, and operational-improvement items;
+- rank work using outcome, delay/dependency, risk, and evidence;
+- explain rankings and uncertainty;
+- compare market-segment hypotheses without confirmation bias;
+- identify approval gates;
+- produce a concise operating briefing.
+
+**Testing:** Run at least three realistic scenarios, including one with incomplete/conflicting evidence.
+
+**Day 5 completion:** executable prototype + test evidence + lessons logged.
 
 ---
 
-### Day 6–7 – Buffer + First Draft of 1 Skill
+### Day 6–7 – Strengthen + Start Real Market Test
 
-**Tasks:**
-- [ ] Build the **first** skill completely (we choose the easiest one)
-- [ ] Test it yourself 2–3 times
-- [ ] Improve it based on what felt weak
-
-**End of Week 1 target:**  
-1 finished skill + clear plan for the remaining skills.
+- Improve the executable core from Day 5 tests.
+- Begin current market research across the four hypotheses.
+- Build the first prospect-qualification dataset.
+- Draft the first small personalized outreach batch.
+- Owner reviews first outbound messages before anything is sent.
+- Record responses and objections as experiment data.
 
 ---
 
 ### Daily Habit
 
-Every day, add 2–4 lines to `progress/daily-log.md`:
-```
-Date:
-What I did:
-What blocked me:
-What I need help with:
-```
+Add a concise entry to `progress/daily-log.md` covering:
+- what changed;
+- evidence learned;
+- what failed/blocked;
+- next decision.
 
-This keeps us moving and lets me help you fast.
+The plan may change when evidence improves. Changes must be documented rather than silently rewriting history.
