@@ -386,3 +386,74 @@ This document should be updated as we complete:
 - post-launch improvements.
 
 The objective is for this file to evolve from a learning notebook into a reusable **skill-building operating standard** for future AI products.
+
+---
+
+## 18. Day 4 — Integrated Operations Partner Lessons
+
+Day 4 buyer exercises materially changed the product hypothesis.
+
+### Owner's buying priorities
+
+1. A system that filters large amounts of available information and intelligently prioritizes what deserves attention.
+2. A system that independently handles recurring daily work and saves meaningful owner time.
+3. A system that conducts market research and supports market outreach.
+
+### Explainability rule
+
+For important recommendations, the system must explain **why** it made the decision and show the evidence/data that influenced it.
+
+A useful prioritization decision should consider:
+- available evidence and authoritative operating standards;
+- signal versus noise versus operational-improvement opportunity;
+- expected outcome/value;
+- consequences of delay and dependencies;
+- actual risk;
+- uncertainty and missing/conflicting information.
+
+**New principle:** The AI earns authority through evidence, not confidence.
+
+### Autonomy rule
+
+**Autonomy follows consequence.**
+
+Separate authority into:
+- Observe;
+- Act within explicit reversible guardrails;
+- Seek approval for consequential actions until that action class is deliberately delegated.
+
+### Outcome rule
+
+Do not reward the operator for looking busy. Measure qualified opportunities, useful responses, conversions, owner time saved, correct work completed, risk prevented, and progress toward objectives rather than raw message/task volume.
+
+### Self-validation rule
+
+When the buyer is uncertain, do not invent a persona and build blindly.
+
+The integrated AI Operations Partner's first commercial assignment is to use its own market-validation, prioritization, and outreach-preparation capabilities to help identify its market and acquire its first paying customer.
+
+The initial segment order is a hypothesis:
+1. solo consultant/coach;
+2. creator;
+3. tiny agency;
+4. small online-business/SaaS founder.
+
+Research should actively seek disconfirming evidence, not merely support the owner's initial ranking.
+
+### Morning operating brief
+
+A useful daily brief should answer:
+1. How is the product doing today?
+2. What is happening in the market?
+3. What changed or was observed that could affect us?
+4. What meaningful work happened in the last 24 hours, including outreach outcomes?
+5. What should we do today, and why?
+6. What genuinely needs owner approval?
+
+### Product architecture lesson
+
+The original small skills can remain useful internal capabilities, but the MVP is tested as one integrated operating product:
+
+**Observe → Gather → Understand → Filter → Prioritize → Explain → Act within authority → Verify → Measure → Report → Learn**
+
+See `product/AI_OPERATIONS_PARTNER_MVP.md` for the current testable specification.
